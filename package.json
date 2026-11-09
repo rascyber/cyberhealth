@@ -1,0 +1,11 @@
+{
+  "name": "cyberhealth-platform-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CyberHealth white-label demo: website, patient app, doctor + Scribe workspace, employer dashboard, check-in terminal and clinician AI co-pilot. Powered by Cyber Development (Pty) Ltd.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
